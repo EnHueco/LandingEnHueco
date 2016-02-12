@@ -5,12 +5,12 @@
 /* #28645A otro verde */
 
 .nav-tabs>li>a:hover {
-	background-color: #00A286;
-	border-color: #00A286;
+    background-color: #00A286;
+    border-color: #00A286;
 }
 
-.nav-tabs>li.active>a, 
-.nav-tabs>li.active>a:hover, 
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
 .nav-tabs>li.active>a:focus {
     background-color: #00A286;
     border: 1px solid #00A286;
@@ -42,7 +42,7 @@
 .btn-custom-border:hover,
 .btn-slide:hover,
 .navbar-default .navbar-toggle,
-.navbar-default .navbar-toggle:hover, 
+.navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus,
 .navbar-toggle {
     background-color: #00A286;
@@ -57,7 +57,7 @@
 
 
 .underline {
-	border-top: 4px solid #00A286;
+    border-top: 4px solid #00A286;
 }
 
 .underline-small {
@@ -65,7 +65,7 @@
 }
 
 
-.navbar-default .navbar-nav>li>a:hover, 
+.navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-nav>li.current a,
 .features .feature .icon-container .icon,
@@ -80,5 +80,5 @@ ul.extra-features i,
 }
 
 .footer span.jobs:after {
-	border-right-color: #00A286;
+    border-right-color: #00A286;
 }
