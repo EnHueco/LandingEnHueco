@@ -3,6 +3,7 @@
 /* #D2FFAA top bar buttons color, verde fofo*/
 /* #323232 tab bar color, gris */
 /* #28645A otro verde */
+/* Logo font: Yuanti */
 
 .nav-tabs>li>a:hover {
     background-color: #00A286;
@@ -24,6 +25,7 @@
 .btn-custom-border {
     background: transparent;
     border-color: #00A286;
+    border-width: 3px;
     color: #ffffff;
 }
 
