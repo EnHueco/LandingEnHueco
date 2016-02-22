@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cd9091ff-71b9-4a99-ad92-009e589e4d0f" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/images/introslider/sfsaf.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/monasCortada.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/introslider/slide2.jpg" afterPath="$PROJECT_DIR$/images/introslider/slide2.jpg" />
     </list>
     <ignored path="EHLanding-master.iws" />
@@ -233,7 +234,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
