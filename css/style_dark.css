@@ -643,12 +643,11 @@ a.mouse i {
 /* Packages Section */
 
 .packages {
-    background: #181818;
+    background: #1a1b1c;
     text-align: center;
 }
 
 .packages .package {
-    border: 1px solid #e1e1e1;
     border-radius: 4px;
     background-color: transparent;
     padding: 30px 0;
