@@ -71,8 +71,8 @@ $(document).ready(function() {
 		pagination: false,
 		itemsDesktop: [1000, 4],
         itemsDesktopSmall: [990, 3],
-        itemsTablet: [600, 1],
-        itemsMobile: false
+        itemsTablet: [600, 2],
+        itemsMobile: [450,1]
 	});
 
 	// Screenshot lightbox
